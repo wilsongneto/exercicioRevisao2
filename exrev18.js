@@ -1,0 +1,1 @@
+//Criar um programa para verificar se uma pessoa tem menos de 12 anos é "Criança", se tem entre 13 e 17 é "Adolescente", se tiver 18 ou mais é "Adulto".
